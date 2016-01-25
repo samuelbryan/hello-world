@@ -1,2 +1,2 @@
 # hello-world
-beginning test of me
+This is going along OK - bit more to go
